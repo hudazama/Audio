@@ -1,7 +1,5 @@
 # Audio 🔊
 
-Hi. These are my personal notes regarding Audio stuff.
-
 I did a research on classifying psychological states (focusing on Major Depressive Disorder) based on voice for my Master's degree. Back then I used Matlab and focused more on analysing audio signals, extracting some audio features and classifying them using simple classifiers like Quadratic Disciminant Analysis (no Deep Learning stuff). But this was back in 2017, now my work are only related to computer vision. So in short, this repo is dedicated to help me recapping some basic audio signal analysis concepts and as a kick start to future Audio AI Deep Learning stuff 🔊
 
 ### List of References
